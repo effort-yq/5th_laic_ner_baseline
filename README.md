@@ -1,0 +1,2 @@
+# 5th_laic_ner_baseline
+第五届中国法研杯LAIC2022司法人工智能挑战赛，犯罪事实实体识别uie版本baseline
